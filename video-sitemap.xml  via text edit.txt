@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <url>
+    <loc>https://amylaurentelitematchmakingservice.com/press/e-news-a-list-celebs-dating</loc>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/btyAtgYtgCM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title><![CDATA[E! News: Amy Laurent on How A-List Celebs Date in Hollywood]]></video:title>
+      <video:description><![CDATA[Celebrity matchmaker Amy Laurent shares how Hollywood’s elite approach love, relationships, and marriage in this E! News segment.]]></video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=btyAtgYtgCM</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/btyAtgYtgCM</video:player_loc>
+      <video:duration>270</video:duration>
+      <video:publication_date>2025-08-01T00:00:00+00:00</video:publication_date>
+    </video:video>
+
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/OQbZ8RkZGMM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title><![CDATA[Amy Laurent Matchmaker Reviews on Singles Issues]]></video:title>
+      <video:description><![CDATA[Amy Laurent discusses common challenges singles face in dating and relationships.]]></video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=OQbZ8RkZGMM</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/OQbZ8RkZGMM</video:player_loc>
+      <video:duration>270</video:duration>
+      <video:publication_date>2025-08-01T00:00:00+00:00</video:publication_date>
+    </video:video>
+
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/sOnmOsutgzE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title><![CDATA[Amy Laurent on the Top 3 Mistakes Single Women Make in Dating]]></video:title>
+      <video:description><![CDATA[Relationship expert Amy Laurent reveals the three most common mistakes single women make—and how to avoid them.]]></video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=sOnmOsutgzE</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/sOnmOsutgzE</video:player_loc>
+      <video:duration>270</video:duration>
+      <video:publication_date>2025-08-01T00:00:00+00:00</video:publication_date>
+    </video:video>
+
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/HqWovdO8uT8/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title><![CDATA[Amy Laurent Celebrity Matchmaker on Dating & Marriage]]></video:title>
+      <video:description><![CDATA[Amy Laurent discusses dating and marriage in the celebrity world, offering expert insights.]]></video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=HqWovdO8uT8</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/HqWovdO8uT8</video:player_loc>
+      <video:duration>270</video:duration>
+      <video:publication_date>2025-08-01T00:00:00+00:00</video:publication_date>
+    </video:video>
+
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Ohah7uEZH2Q/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title><![CDATA[Amy Laurent Matchmaker Reviews on How A-List Celebs Date in Hollywood]]></video:title>
+      <video:description><![CDATA[Amy Laurent reviews how A-list celebrities date and find love in Hollywood.]]></video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=Ohah7uEZH2Q</video:content_loc>
+      <video:player_loc>https://www.youtube.com/embed/Ohah7uEZH2Q</video:player_loc>
+      <video:duration>270</video:duration>
+      <video:publication_date>2025-08-01T00:00:00+00:00</video:publication_date>
+    </video:video>
+
+  </url>
+</urlset>
